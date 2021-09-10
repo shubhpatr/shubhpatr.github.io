@@ -50,7 +50,7 @@ export const projectsData = [
         projectName: 'Windows Portfolio',
         projectDesc: 'A personal portfolio based on the Windows OS UI',
         tags: ['NextJS', 'CSS'],
-        code: 'https://github.com/shubhpatr/shubhpatr.github.io',
+        code: 'https://github.com/shubhpatr/windows-portfolio',
         demo: 'https://shubhpatr-github-io.vercel.app/',
         image: 'https://cdn.wallpapersafari.com/35/10/y6HR3B.jpg'
     },

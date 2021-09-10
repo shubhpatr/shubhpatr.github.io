@@ -10,7 +10,7 @@ export const blogData = [
     {
         id: 2,
         title: 'Permutations using Circular Array',
-        description: 'Ann interesting application of circular arrays for solving for permutations',
+        description: 'An interesting application of circular arrays for solving for permutations',
         date: 'Sep 8, 2021',
         image: 'https://ak.picdn.net/shutterstock/videos/759988/thumb/1.jpg',
         url: 'https://shubhpatra.blogspot.com/2021/09/permutations.html'
