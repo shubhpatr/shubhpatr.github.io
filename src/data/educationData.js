@@ -6,7 +6,7 @@ export const educationData = [
         startYear: '2021',
         endYear: 'Present',
         gpa: 'GPA: 4.0',
-        courses:'Cloud Computing, Machine Learning, Introduction to Statistics',
+        courses:'Courses: Cloud Computing, Machine Learning, Introduction to Statistics',
         extra: 'CS Club: Technical Content Producer'
     },
     {
@@ -16,7 +16,7 @@ export const educationData = [
         startYear: '2014',
         endYear: '2018',
         gpa: 'CGPA: 8.0',
-        courses: 'Electronic Digital Circuits, Analog Electronics, Filters, Information Technology, CS Fundamentals, Digital Electronics',
+        courses: 'Courses: Electronic Digital Circuits, Analog Electronics, Filters, Information Technology, CS Fundamentals, Digital Electronics',
         extra: ''
     },
     // {
