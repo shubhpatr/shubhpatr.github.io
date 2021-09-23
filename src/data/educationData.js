@@ -7,7 +7,7 @@ export const educationData = [
         endYear: 'Present',
         gpa: 'GPA: 4.0',
         courses:'Cloud Computing, Machine Learning, Introduction to Statistics',
-        extra: 'CS Club, Technical Content Producer'
+        extra: 'CS Club: Technical Content Producer'
     },
     {
         id: 2,
