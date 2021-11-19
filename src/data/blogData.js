@@ -33,6 +33,38 @@ export const blogData = [
     },
     {
         id: 5,
+        title: 'Find First Missing Guest',
+        description: 'Binary Search Question for finding the first missing person in an event given a priroity order',
+        date: 'Nov 17 2021',
+        image: 'https://images.unsplash.com/photo-1497514440240-3b870f7341f0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlzc2luZyUyMHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80',
+        url: 'https://www.hackerrank.com/contests/hackathon-1637210959/challenges/find-first-missing-guest/editorial'
+    },
+    {
+        id: 6,
+        title: 'Calendar Schedule',
+        description: 'Given a persons schedule find out if there is any confict or not',
+        date: 'Nov 17 2021',
+        image: 'https://images.squarespace-cdn.com/content/v1/5bb6b1f9b9144958521afd76/1552193730459-74PK2QHP5Y2A77AIXNJQ/header-academic-calendar-ss-59653657-788x360.jpg?format=2500w',
+        url: 'https://www.hackerrank.com/contests/hackathon-1637210959/challenges/google-calendar-schedule/editorial'
+    },
+    {
+        id: 7,
+        title: 'Squid Game!',
+        description: 'In the honeycomb game, return the number of ways you can assign k honeycomb shapes to n players',
+        date: 'Nov 17 2021',
+        image: 'https://images.hdqwalls.com/wallpapers/squid-game-fanart-tf.jpg',
+        url: 'https://www.hackerrank.com/contests/hackathon-1637210959/challenges/squid-game-4/editorial'
+    },
+    {
+        id: 8,
+        title: 'Water Plants',
+        description: 'Watering an array of plants based on there priority level, such that no lower priority neeighbor recieves more water.',
+        date: 'Nov 17 2021',
+        image: 'https://media.istockphoto.com/photos/young-plants-picture-id501061554?k=20&m=501061554&s=612x612&w=0&h=6TnvCvQS4i4yrH0-WbxbLcgwlvw7beLoFZZGu-W5eJI=',
+        url: 'https://www.hackerrank.com/contests/hackathon-1637210959/challenges/water-plants/editorial'
+    },
+    {
+        id: 9,
         title: 'Notification App',
         description: 'Detailed description of architecting a notification app.',
         date: 'Sept 9, 2021',
