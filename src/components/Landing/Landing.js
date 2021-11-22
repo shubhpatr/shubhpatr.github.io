@@ -102,7 +102,9 @@ function Landing() {
                 <img src={headerData.image} alt="" className="landing--img" style={{ opacity: `${drawerOpen ? '0' : '1'}`, borderColor: theme.secondary}}/>
                 <div className="landing--container-right" style={{backgroundColor: theme.secondary}}>
                     <div className="lcr--content" style={{color: theme.tertiary}}>
-                        <h6>{headerData.title}</h6>
+                    
+                        <h6>{headerData.title + ', DS Grad'}</h6>
+                        
                         <h1>{headerData.name}</h1>
                         <p>{headerData.desciption}</p>
 
