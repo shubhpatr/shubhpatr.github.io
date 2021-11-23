@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Map Reduce Search Engine',
         projectDesc: 'Application that triggers inverted index jobs on the entire project guetenberg repository',
         tags: ['AppEngine', 'CloudShell','Python'],
-        code: 'https://fa21ecc40249shubham.uc.r.appspot.com/',
-        demo: 'https://github.com/shubhpatr/scalable-mapr',
+        code: 'https://github.com/shubhpatr/scalable-mapr',
+        demo: 'https://fa21ecc40249shubham.uc.r.appspot.com/',
         image: 'https://cdn.pixabay.com/photo/2016/03/04/19/36/gears-1236578__340.jpg'
     },
     {
